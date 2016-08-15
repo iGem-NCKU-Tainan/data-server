@@ -14,7 +14,6 @@ npm-debug.log
 .DS_Store
 */**/dist
 *.ini
-settings.py
 */**/*.map
 *.sqlite3
 __init__.py
